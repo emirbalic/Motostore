@@ -37,198 +37,198 @@ namespace API.Data
             {
                 new Product
                 {
-                    Name = "Angular Speedster Board 2000",
+                    Name = "BMW L1 Valve",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 20000,
-                    PictureUrl = "/images/products/sb-ang1.png",
-                    Brand = "Angular",
-                    Type = "Boards",
-                    QuantityInStock = 100
+                    PictureUrl = "/images/products/moto1.jpg",
+                    Brand = "BMW",
+                    Type = "Motorcycle",
+                    QuantityInStock = 10
                 },
                 new Product
                 {
-                    Name = "Green Angular Board 3000",
+                    Name = "Yamaha Offroad Speedster",
                     Description = "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
                     Price = 15000,
-                    PictureUrl = "/images/products/sb-ang2.png",
-                    Brand = "Angular",
-                    Type = "Boards",
-                    QuantityInStock = 100
+                    PictureUrl = "/images/products/moto2.jpg",
+                    Brand = "Yamaha",
+                    Type = "Motorcycle",
+                    QuantityInStock = 10
                 },
                 new Product
                 {
-                    Name = "Core Board Speed Rush 3",
+                    Name = "KTM 790",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 18000,
-                    PictureUrl = "/images/products/sb-core1.png",
-                    Brand = "NetCore",
-                    Type = "Boards",
-                    QuantityInStock = 100
+                    PictureUrl = "/images/products/moto3.jpg",
+                    Brand = "KTM",
+                    Type = "Motorcycle",
+                    QuantityInStock = 7
                 },
                 new Product
                 {
-                    Name = "Net Core Super Board",
+                    Name = "Yamaha Naked Custom",
                     Description =
                         "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
                     Price = 30000,
-                    PictureUrl = "/images/products/sb-core2.png",
-                    Brand = "NetCore",
-                    Type = "Boards",
-                    QuantityInStock = 100
+                    PictureUrl = "/images/products/moto4.jpg",
+                    Brand = "Yamaha",
+                    Type = "Motorcycle",
+                    QuantityInStock = 10
                 },
                 new Product
                 {
-                    Name = "React Board Super Whizzy Fast",
+                    Name = "Indian Cool Star",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 25000,
-                    PictureUrl = "/images/products/sb-react1.png",
-                    Brand = "React",
-                    Type = "Boards",
+                    PictureUrl = "/images/products/moto5.jpg",
+                    Brand = "Indian",
+                    Type = "Motorcycle",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Typescript Entry Board",
+                    Name = "Yamaha R1",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 12000,
-                    PictureUrl = "/images/products/sb-ts1.png",
-                    Brand = "TypeScript",
-                    Type = "Boards",
+                    PictureUrl = "/images/products/moto6.jpg",
+                    Brand = "Yamaha",
+                    Type = "Motorcycle",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Core Blue Hat",
+                    Name = "Elegant Gloves",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1000,
-                    PictureUrl = "/images/products/hat-core1.png",
-                    Brand = "NetCore",
-                    Type = "Hats",
+                    PictureUrl = "/images/products/gear1.jpg",
+                    Brand = "Dainesse",
+                    Type = "Gear",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Green React Woolen Hat",
+                    Name = "Mirror",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 8000,
-                    PictureUrl = "/images/products/hat-react1.png",
-                    Brand = "React",
-                    Type = "Hats",
+                    Price = 800,
+                    PictureUrl = "/images/products/gear2.jpg",
+                    Brand = "Honda",
+                    Type = "Gear",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Purple React Woolen Hat",
+                    Name = "Disc Wheal",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1500,
-                    PictureUrl = "/images/products/hat-react2.png",
-                    Brand = "React",
-                    Type = "Hats",
+                    PictureUrl = "/images/products/gear3.jpg",
+                    Brand = "Honda",
+                    Type = "Gear",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Blue Code Gloves",
+                    Name = "Disc Wheal Steel",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1800,
-                    PictureUrl = "/images/products/glove-code1.png",
-                    Brand = "VS Code",
-                    Type = "Gloves",
+                    PictureUrl = "/images/products/gear4.jpg",
+                    Brand = "Kawasaki",
+                    Type = "Gear",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Green Code Gloves",
+                    Name = "Speed meter vintage",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1500,
-                    PictureUrl = "/images/products/glove-code2.png",
-                    Brand = "VS Code",
-                    Type = "Gloves",
+                    PictureUrl = "/images/products/gear5.jpg",
+                    Brand = "BMW",
+                    Type = "Gear",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Purple React Gloves",
+                    Name = "Reservoir",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1600,
-                    PictureUrl = "/images/products/glove-react1.png",
-                    Brand = "React",
-                    Type = "Gloves",
+                    PictureUrl = "/images/products/gear6.jpg",
+                    Brand = "Harley-Davidson",
+                    Type = "Gear",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Green React Gloves",
+                    Name = "Full face LS2",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1400,
-                    PictureUrl = "/images/products/glove-react2.png",
-                    Brand = "React",
-                    Type = "Gloves",
+                    PictureUrl = "/images/products/helmet1.jpg",
+                    Brand = "LS2",
+                    Type = "Helmet",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Redis Red Boots",
+                    Name = "Diesel Helmet",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 25000,
-                    PictureUrl = "/images/products/boot-redis1.png",
-                    Brand = "Redis",
-                    Type = "Boots",
+                    PictureUrl = "/images/products/helmet2.jpg",
+                    Brand = "Diesel",
+                    Type = "Helmet",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Core Red Boots",
+                    Name = "Full face Racing",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 18999,
-                    PictureUrl = "/images/products/boot-core2.png",
-                    Brand = "NetCore",
-                    Type = "Boots",
+                    PictureUrl = "/images/products/helmet3.jpg",
+                    Brand = "Yamaha",
+                    Type = "Helmet",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Core Purple Boots",
+                    Name = "Nexx Helmet",
                     Description =
                         "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
                     Price = 19999,
-                    PictureUrl = "/images/products/boot-core1.png",
-                    Brand = "NetCore",
-                    Type = "Boots",
+                    PictureUrl = "/images/products/helmet4.jpg",
+                    Brand = "Nolan",
+                    Type = "Helmet",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Angular Purple Boots",
+                    Name = "Simpson Helmet",
                     Description = "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
                     Price = 15000,
-                    PictureUrl = "/images/products/boot-ang2.png",
-                    Brand = "Angular",
-                    Type = "Boots",
+                    PictureUrl = "/images/products/helmet5.jpg",
+                    Brand = "Simpson",
+                    Type = "Helmet",
                     QuantityInStock = 100
                 },
                 new Product
                 {
-                    Name = "Angular Blue Boots",
+                    Name = "Shoei Blue Helmet",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                     Price = 18000,
-                    PictureUrl = "/images/products/boot-ang1.png",
-                    Brand = "Angular",
-                    Type = "Boots",
+                    PictureUrl = "/images/products/helmet6.jpg",
+                    Brand = "Honda",
+                    Type = "Helmet",
                     QuantityInStock = 100
                 },
             };
